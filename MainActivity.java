@@ -11,7 +11,7 @@
 * All rights reserved
 * See you Again :)
 * */
-package com.yukay.gngragri;
+package com.example.fathass;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.app.ProgressDialog;
@@ -35,7 +35,7 @@ private WebView webview;
         webview.getSettings().setJavaScriptCanOpenWindowsAutomatically(true);
         webview.getSettings().setSupportZoom(true);
         webview.getSettings().setBuiltInZoomControls(true);
-        webview.loadUrl("https://www.gungoragri.com");
+        webview.loadUrl("https://www.examplewebpage.com");
         webview.setWebViewClient(new WebViewClient());
     }
     @Override
