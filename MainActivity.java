@@ -1,16 +1,6 @@
 /**
-* Copyright 2021 Gungor Agri
 * Developed by FatihHAS
-* Licence Yukay Agriculture Machine Industry and Trade Limited Company
-* Version Number : 1.1
-* Location : Tekirdağ / Turkey
-* https://gungoragri.com/gizlilik-politikasi/
-* Licence API Key : Sorry I can't share this information!
-* Android APK for build.gradle { relase type update }
-* Android APK for work in Android Version 12,11,10,9,8,7,6,5,4
-* All rights reserved
-* See you Again :)
-* */
+**/
 package com.example.fathass;
 
 import androidx.appcompat.app.AppCompatActivity;
