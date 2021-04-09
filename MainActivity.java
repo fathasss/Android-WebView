@@ -1,7 +1,7 @@
 /**
 * Developed by FatihHAS
 **/
-package com.example.fathass;
+package com.example.fathasss;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.app.ProgressDialog;
